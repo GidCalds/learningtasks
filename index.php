@@ -8,7 +8,7 @@
  <center><h1> Welcome to my webpage </h1></center>
  <ul>
  <li><a href="index.php">Home</a></li>
- <li><a href="/LT2/Recipe Website.html"> LEARNING TASK 2 </a></li>
+ <li><a href="https://github.com/GidCalds/learningtasks.git"> LEARNING TASK 2 </a></li>
  </ul>
  
  </body>
